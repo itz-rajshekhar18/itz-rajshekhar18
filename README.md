@@ -1,11 +1,11 @@
-<!-- Dynamic banner (replace the link with your own if you want) -->
+<!-- Dynamic banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I+am+Rajshekhar!;Welcome+to+my+GitHub+Profile!;Fullstack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
-<!-- Profile picture (optional) -->
+<!-- Profile picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/itz-rajshekhar18?v=4" width="150" height="150" style="border-radius:50%;" alt="Rajshekhar's avatar">
+  <img src="https://github.com/user-attachments/assets/fb8ea99d-82fe-45b5-bed9-c2f43169b0c6" width="150" height="150" style="border-radius: 50%;" alt="Rajshekhar's avatar" />
 </p>
 
 <h1 align="center">Hi there, I'm Rajshekhar 👋</h1>
@@ -42,9 +42,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-rajshekhar18&theme=tokyonight" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itz-rajshekhar18&theme=tokyonight" alt="Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=itz-rajshekhar18&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itz-rajshekhar18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-rajshekhar18&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -54,17 +54,16 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/itz-rajshekhar18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/raj-shekhar-a628b2320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- Add more social links as needed -->
+  <a href="https://github.com/itz-rajshekhar18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/raj-shekhar-a628b2320/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- Fun animated GIF (optional) -->
+<!-- Fun animated GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" alt="Coding" />
 </p>
 
-<!-- Optional: Quote or personal motto -->
+<!-- Personal motto -->
 <p align="center"><i>"Building cool things, one line at a time."</i></p>
